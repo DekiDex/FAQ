@@ -37,10 +37,6 @@ h2 {
 	z-index: 0;
 }
 
-.zero {
-	visibility: 0;
-	font-size: 5%;
-}
 
 .htwo {
 	color: hsl(240, 6%, 50%);
