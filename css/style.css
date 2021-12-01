@@ -15,12 +15,16 @@ body {
     margin: 0;
 }
 
+.main {
+	box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
 
-button {
+
+a {
 	display: flex;
 	align-items: center;
-	border: none;
-	background: none;
+	text-decoration: none;
+	cursor: pointer;	
 }
 
 hr {
